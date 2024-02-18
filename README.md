@@ -1,5 +1,7 @@
 # CSE508_Winter2024_A1_MT23053
 Notebook of Kaggle has been used to run the .ipynb files
+file directory for the same has been mentioned
+data provided in the sheet was downloaded and uploaded to kaggle 
 
 **#Question 1**
 Searching the directory with files having .txt extension we read each file and then call preprocess function which first makes them lowercase then tokenize them and and uses modules in nltk library to remove stopwords and punctuation
